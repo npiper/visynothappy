@@ -1,3 +1,21 @@
-# New
+# VisyNotHappy Mobile app 
 
-New readme
+
+# Design
+
+## Services
+
+
+## Controller Configuration
+
+
+## Views
+
+
+
+
+# To test locally
+
+```
+ionic serve
+```

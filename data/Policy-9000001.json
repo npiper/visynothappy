@@ -1,0 +1,9 @@
+{
+"Policy Number" : 9000001,
+
+"Life Insured" : "http://mlclife.com.au/api/v1/customers/1111",
+"Policy Owner" : "http://mlclife.com.au/api/v1/customers/1112"
+
+}
+
+

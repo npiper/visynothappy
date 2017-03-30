@@ -1,0 +1,14 @@
+{
+	"Life Insured" : "1111",
+
+	"First Name" : "Steve",
+
+	"Last Name" : "Waugh",
+
+	"DOB" : "10-04-1982",
+
+	"Postal Address" : "http://mlclife.com.au/api/v1/Address/101",
+
+	"Residential Address" : "http://mlclife.com.au/api/v1/Address/102"
+
+}
